@@ -1,0 +1,12 @@
+11
+BOUND 2
+SET a 2
+SET b 4
+GET b
+PEEK a
+BOUND 1
+PEEK a
+SET c 5
+SET d 6
+GET a
+DUMP
